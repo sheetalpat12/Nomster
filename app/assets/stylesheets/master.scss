@@ -1,15 +1,7 @@
 @import "bootstrap";
 @import url('https://fonts.googleapis.com/css?family=Acme|Black+Han+Sans|PT+Serif');
 
-body{
-  background: image_url('yelpBackground.jpg');
-  font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  min-width: 1020px;
-  background-position: 50%;
-  background-size: cover;
-  padding-top: 2px;
-  height: 570px;
-}
+
 .booyah-box {
   -moz-box-shadow: 1px 1px 2px 0 #d0d0d0;
   -webkit-box-shadow: 1px 1px 2px 0 #d0d0d0;
@@ -29,7 +21,15 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'PT Serif', serif;
   color: white;
 }
-
+body{
+  background: image_url('yelpBackground.jpg');
+  font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  min-width: 1020px;
+  background-position: 50%;
+  background-size: cover;
+  padding-top: 2px;
+  height: 570px;
+}
 .navbar{
   background: image_url('darkness.png');
   color: white;
