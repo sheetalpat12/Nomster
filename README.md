@@ -3,15 +3,14 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
 
-* Ruby version
+* Ruby version: 2.5.3
 
 * System dependencies
 
 * Configuration
 
-* Database creation
+* Database creation: Created a table named Places and User
 
 * Database initialization
 
@@ -21,4 +20,7 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+Currently, the application allows user to enter,edit, delete the name of their favorite dining restaurant, give reviews, and locate the place on google maps.
+
+
+
