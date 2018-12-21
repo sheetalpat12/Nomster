@@ -8,8 +8,3 @@ class CreatePhotos < ActiveRecord::Migration[5.2]
     add_index :photos, :place_id
   end
 end
-
-
-
-
-
