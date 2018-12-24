@@ -30,4 +30,4 @@
 /config/application.yml
 
 #Ignoring the tmp files
-/public/uploads/tmp/*
+#/public/uploads/tmp/*
